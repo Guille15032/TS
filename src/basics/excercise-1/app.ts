@@ -1,6 +1,6 @@
 const teacher = {
     name: 'Guillermo',
-    lastName: 'Galeano'
+    lastName: 'Pérez'
 }
 
 console.log('Teacher: ', teacher);
